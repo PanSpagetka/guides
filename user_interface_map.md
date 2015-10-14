@@ -13,9 +13,17 @@ Index site of ManageIQ.
 ###Saved Reports
 ####Tree:
 - All Saved Reports
+Configuration(Delete selected saved Reports)
     - Group of Reports
+    Configuration(Delete selected saved Reports)
       - Report
+        Configuration(Show full screen report, Delete this Reports form the Database)
+
 ###Reports
+- All Reports
+  - Folder
+    - Subfolder
+      - Report Queue() Configuration(Add a new Report, Copy this Report, Add a new Schedule)
 ###Schedules
 ###Dashboards
 ###Dashboard Widgets

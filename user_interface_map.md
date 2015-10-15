@@ -13,7 +13,7 @@ Index site of ManageIQ.
 ###Saved Reports
 ####Tree:
 - All Saved Reports
-Configuration(Delete selected saved Reports)
+  Configuration(Delete selected saved Reports)
     - Group of Reports
     Configuration(Delete selected saved Reports)
       - Report

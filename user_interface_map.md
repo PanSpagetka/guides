@@ -14,7 +14,7 @@ Index site of ManageIQ.
 ####Tree:
 - All Saved Reports
   Configuration(Delete selected saved Reports)
-    - Group of Reports
+  - Group of Reports
     Configuration(Delete selected saved Reports)
       - Report
         Configuration(Show full screen report, Delete this Reports form the Database)

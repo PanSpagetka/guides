@@ -24,7 +24,7 @@ Index site of ManageIQ.
   - Folder
     - Subfolder
       - Report Queue() Configuration(Add a new Report, Copy this Report, Add a new Schedule)
-      - 
+
 ###Schedules
 ###Dashboards
 ###Dashboard Widgets

@@ -3,6 +3,19 @@
 This file is used to document User Interface of ManageIQ
 
 #Cloud Inteligence
+<script>
+    $(document).ready(function(){
+    $('.markdown-block .sqs-block-content h2').css('cursor','pointer');
+    $(".markdown-block .sqs-block-content h2").nextUntil("h2").slideToggle();
+    $(".markdown-block .sqs-block-content h2").click(function() {
+    $(".markdown-block .sqs-block-content h2").nextUntil("h2").slideUp();
+    $(this).nextUntil("h2").slideDown();
+    });
+    });
+    </script>
+##olo
+ ololo
+ lo polopolop
 
 ###Dashboard
 ####Description:
@@ -27,16 +40,8 @@ report_controller.rb
   - Group of Reports<br>
     Main Div:<br>
     Displays Table with all Saved Reports<br>
-<script>
-    $(document).ready(function(){
-    $('.markdown-block .sqs-block-content h2').css('cursor','pointer');
-    $(".markdown-block .sqs-block-content h2").nextUntil("h2").slideToggle();
-    $(".markdown-block .sqs-block-content h2").click(function() {
-    $(".markdown-block .sqs-block-content h2").nextUntil("h2").slideUp();
-    $(this).nextUntil("h2").slideDown();
-    });
-    });
-    </script>
+
+
     Rendered partials:<br>
     layouts/_info_msg.html.haml
     layouts/_flash_msg.html.haml

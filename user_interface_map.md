@@ -9,10 +9,9 @@ Index site of ManageIQ.
 ####Rendered Partials:
 
 ###Reports
-
-####Saved Reports
 ######Controler:
 report_controller.rb
+####Saved Reports
 
 ######Tree:
 - All Saved Reports

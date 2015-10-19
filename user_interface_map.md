@@ -2,6 +2,24 @@
 # Map of User Interface of ManageIQ
 This file is used to document User Interface of ManageIQ
 
+ <script>
+    $(document).ready(function(){
+    $('.markdown-block .sqs-block-content h2').css('cursor','pointer');
+    $(".markdown-block .sqs-block-content h2").nextUntil("h2").slideToggle();
+    $(".markdown-block .sqs-block-content h2").click(function() {$(this).nextUntil("h2").slideToggle();});
+    });
+    </script>
+## **+ QUESTION 1**
+
+REPLY 1
+
+## **+ QUESTION 2**
+
+REPLY 2
+
+## **+ QUESTION 3**
+
+REPLY 3
 #Cloud Inteligence
 ###Dashboard
 ####Description:

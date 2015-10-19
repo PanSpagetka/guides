@@ -1,3 +1,4 @@
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 # Map of User Interface of ManageIQ
 This file is used to document User Interface of ManageIQ
 
@@ -13,6 +14,7 @@ Index site of ManageIQ.
 ####Saved Reports
 ######Controler:
 report_controller.rb
+
 ######Tree:
 - All Saved Reports
   Configuration
@@ -25,6 +27,13 @@ report_controller.rb
   - Group of Reports<br>
     Main Div:<br>
     Displays Table with all Saved Reports<br>
+<script>
+    $(document).ready(function(){
+    $('.markdown-block .sqs-block-content h2').css('cursor','pointer');
+    $(".markdown-block .sqs-block-content h2").nextUntil("h2").slideToggle();
+    $(".markdown-block .sqs-block-content h2").click(function() {$(this).nextUntil("h2").slideToggle();});
+    });
+    </script>
     Rendered partials:<br>
     layouts/_info_msg.html.haml
     layouts/_flash_msg.html.haml

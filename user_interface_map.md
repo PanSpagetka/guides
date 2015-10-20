@@ -53,8 +53,7 @@ Index site of ManageIQ. Used to display widgets defined by user.
 
 ### Saved Reports
 - Tree:
-
-    - All Saved Reports
+   - All Saved Reports
       - Configuration
         - Group of Reports
           - Configuration

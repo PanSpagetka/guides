@@ -123,6 +123,16 @@ Index site of ManageIQ. Used to display widgets defined by user.
         - Dashboard
 
 ### Dashboard Widgets
+  - All Widgets
+    - Reports
+      - Report
+    - Charts
+      - Chart
+    - RSS Feeds
+      - RSS Feed
+    - Menus
+      - Menu
+
 ### Edit Reports Menus
 ### Import/Export
 ## Chargeback

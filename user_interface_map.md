@@ -134,7 +134,12 @@ Index site of ManageIQ. Used to display widgets defined by user.
       - Menu
 
 ### Edit Reports Menus
+  - All EVM Groups
+      - Group 
 ### Import/Export
+  - Import / Export
+      - Custom Reports
+      - Widgets
 ## Chargeback
 ## Timelines
 ## RSS

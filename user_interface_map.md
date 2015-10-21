@@ -140,6 +140,7 @@ Index site of ManageIQ. Used to display widgets defined by user.
   - Import / Export
       - Custom Reports
       - Widgets
+
 ## Chargeback
 ## Timelines
 ## RSS

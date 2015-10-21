@@ -112,14 +112,16 @@ Index site of ManageIQ. Used to display widgets defined by user.
                     - Configuration(Add a new Report, Copy this Report, Add a new Schedule)
 
 ### Schedules
-      - All Schedules
-            - Schedule
+  - All Schedules
+    - Schedule
+
 ### Dashboards
-      - All Dashboards
-            - Default Dashboard
-            - All Groups
-                  - Group
-                        - Dashboard
+  - All Dashboards
+    - Default Dashboard
+    - All Groups
+      - Group
+        - Dashboard
+
 ### Dashboard Widgets
 ### Edit Reports Menus
 ### Import/Export
